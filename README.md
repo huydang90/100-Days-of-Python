@@ -3,6 +3,7 @@
 
 Project list: 
 
-Day 1 - 99 Bottles lyrics
-Day 2 - Create Magic 8 Ball game
-Day 3 - Pythagorean Triples Checker
+- Day 1 - 99 Bottles lyrics 
+- Day 2 - Create Magic 8 Ball game 
+- Day 3 - Pythagorean Triples Checker 
+- Day 4 - Coin Estimator 
