@@ -1,13 +1,14 @@
-[Function] Mean, Median, and Mode
-Background
+# [Function] Mean, Median, and Mode
+
+####Background
 
 In a set of numbers, the mean is the average, the mode is the number that occurs the most, and if you rearrange all the numbers numerically, the median is the number in the middle.
 
-Goal
+####Goal
 
 Create three functions that allow the user to find the mean, median, and mode of a list of numbers. If you have access or know of functions that already complete these tasks, do not use them.
 
-Subgoals
+####Subgoals
 
 In the mean function, give the user a way to select how many decimal places they want the answer to be rounded to.
 
